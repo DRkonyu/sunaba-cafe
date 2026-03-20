@@ -213,8 +213,26 @@ img{
 }
 
 .address{
-  margin-top:12px;
-  font-size:13px;
+  margin-top:14px;
+  margin-bottom:10px;
+  font-size:15px;
+  line-height:1.8;
+}
+
+.map-link-wrap{
+  margin:0;
+}
+
+.map-link{
+  display:inline-block;
+  color:#5b3823;
+  text-decoration:none;
+  border-bottom:1px solid #5b3823;
+  font-size:14px;
+}
+
+.map-link:hover{
+  opacity:0.7;
 }
 
 .map-frame{
